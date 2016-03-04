@@ -2,10 +2,10 @@
 
 int main() {
  int s=10;
- int a[s];
+ int a[s]; 
  int i;
 
- printf("Enter elements of array: ");
+ printf("Enter elements of array(10): ");
  for(i = 0; i<s; i++) {
  	scanf ("%d",&a[i]);
  }
